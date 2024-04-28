@@ -1,0 +1,703 @@
+['https://apnews.com/sports.rss']
+1. Champions League rules leave teams chasing a moving target in the Bundesliga
+		Thu, 18 Apr 2024 09:36:22 GMT
+		https://apnews.com/article/bundesliga-dortmund-league-qualifying-dbc599beea5286be3e3be94e7b4514ef
+
+
+2. Cole Palmer, English soccer's latest revelation, looks to pile more pain on former club Man City
+		Thu, 18 Apr 2024 10:38:29 GMT
+		https://apnews.com/article/cole-palmer-chelsea-city-fa-cup-b94820f41235694cc3be7a839bbb2455
+
+
+3. Boston Marathon winners hope victories will earn them spot in Paris Olympics
+		Tue, 16 Apr 2024 20:01:19 GMT
+		https://apnews.com/article/boston-marathon-olympics-78bb27e8a540e13648127d65f6f20e1a
+
+
+4. Coby White scores career-high 42 points as Bulls roll past Hawks 131-116 in play-in game
+		Thu, 18 Apr 2024 04:19:04 GMT
+		https://apnews.com/article/hawks-bulls-score-7f4cbc354a15fd46b1fc9eb3ad3d25cd
+
+
+5. Dallas Stars clinch top seed in Western Conference by getting to overtime against Blues
+		Thu, 18 Apr 2024 04:26:19 GMT
+		https://apnews.com/article/nhl-playoffs-dallas-stars-d8f85bb738f1cbe01c8b2375bc499f6e
+
+
+6. Pelicans host the Kings for play-in game
+		Thu, 18 Apr 2024 06:03:20 GMT
+		https://apnews.com/sacramento-kings-new-orleans-pelicans-nba-playoffs-b81ccf699435494593de36aa94b068c8
+
+
+7. Champions League: Real Madrid in semis after beating Man City on penalties
+		Wed, 17 Apr 2024 20:56:18 GMT
+		https://apnews.com/article/man-city-real-madrid-score-champions-league-d89432d110b6c060b0eb4f7a3c8f3c11
+
+
+8. Stars beat Blues 2-1 in shootout after clinching No. 1 seed in Western Conference playoffs
+		Thu, 18 Apr 2024 04:52:02 GMT
+		https://apnews.com/article/stars-blues-score-0e23a1eca6d8850bfa3b612350230163
+
+
+9. Daniele De Rossi's contract at Roma is extended just 3 months after replacing Jose Mourinho
+		Thu, 18 Apr 2024 07:49:05 GMT
+		https://apnews.com/article/de-rossi-roma-contract-extension-97c1dde8a2616b2790dc5fec4d15f544
+
+
+10. The Milan derby. The Serie A title. A 2nd star. Inter can win it all in a single night
+		Thu, 18 Apr 2024 08:00:54 GMT
+		https://apnews.com/article/milan-derby-inter-serie-a-33bc5580a22aeb7a549dc63c4ae829aa
+
+
+['https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30']
+1. Aaron Judge launches a two-run home run Yankees' 15-3 win over Brewers.
+		Sun, 28 Apr 2024 02:30:39 +0000
+		https://www.foxsports.com/watch/fmc-hg9b6qgj63mp9kse
+
+
+2. Yordan Alvarez crushes his second home run of the game in the Astros' 12-4 win vs. the Rockies
+		Sun, 28 Apr 2024 02:29:39 +0000
+		https://www.foxsports.com/watch/fmc-3z6kinepre8bpxx0
+
+
+3. Brahmas vs. Renegades highlights: San Antonio wins 25-15
+		Sat, 27 Apr 2024 18:41:33 -0400
+		https://www.foxsports.com/live-blog/ufl/brahmas-vs-renegades-live-updates-top-moments-from-ufl-week-5
+
+
+4. Stallions vs. Roughnecks highlights: Birmingham wins 32-9
+		Sat, 27 Apr 2024 18:43:24 -0400
+		https://www.foxsports.com/live-blog/ufl/stallions-vs-roughnecks-live-updates-top-moments-from-ufl-week-5
+
+
+5. Lionel Messi gets 2 goals at record New England crowd; Miami beats Revolution 4-1
+		Sat, 27 Apr 2024 22:15:24 -0400
+		https://www.foxsports.com/stories/soccer/lionel-messi-gets-2-goals-at-record-new-england-crowd-miami-beats-revolution-4-1
+
+
+6. Catch Up with Highlights
+		Sun, 28 Apr 2024 01:40:04 +0000
+		https://www.foxsports.com/watch/fmc-ju2jymqma9o02b2e
+
+
+7. Catch Up with Highlights
+		Sun, 28 Apr 2024 01:17:43 +0000
+		https://www.foxsports.com/watch/fmc-2nw7se016o227lf3
+
+
+8. Celtics take 2-1 lead in series vs. Heat with wire-to-wire win in Miami
+		Sat, 27 Apr 2024 20:56:37 -0400
+		https://www.foxsports.com/stories/nba/celtics-take-2-1-lead-in-series-vs-heat-with-wire-to-wire-win-in-miami
+
+
+9. Ricky Person Jr.'s 1-yard rushing TD helps Stallions grab 26-3 lead over Roughnecks
+		Sun, 28 Apr 2024 00:34:34 +0000
+		https://www.foxsports.com/watch/fmc-76stdm2639e9uayp
+
+
+10. Cubs vs. Red Sox Highlights | MLB on FOX
+		Sun, 28 Apr 2024 00:27:16 +0000
+		https://www.foxsports.com/watch/fmc-zk3wsf1c4juab79b
+
+
+11. Luis Perez links up with J.P. Payton for a 52-yard TD, shrinking Brahmas' lead over Renegades
+		Sun, 28 Apr 2024 00:23:23 +0000
+		https://www.foxsports.com/watch/fmc-zyfi4nq6xpp1nw6v
+
+
+12. Adrian Martinez's 27-yard TD DOT gives Stallions 18-3 lead over Roughnecks
+		Sun, 28 Apr 2024 00:13:38 +0000
+		https://www.foxsports.com/watch/fmc-afj2p2zyk8mygcdq
+
+
+13. Larry Rountree III's physical 5-yard rushing TD helps Stallions extend lead over Roughnecks
+		Sun, 28 Apr 2024 00:12:34 +0000
+		https://www.foxsports.com/watch/fmc-e9uxtrnaht0p72eg
+
+
+14. Chicago Bears are thinking big after drafting QB Caleb Williams, WR Rome Odunze
+		Sat, 27 Apr 2024 19:42:15 -0400
+		https://www.foxsports.com/stories/nfl/the-bears-see-bigger-things-in-store-after-drafting-caleb-williams-rome-odunze
+
+
+15. Quinten Dormady connects with Alize Mack for 24-yard TD, extending Brahmas' lead over Renegades
+		Sat, 27 Apr 2024 23:35:43 +0000
+		https://www.foxsports.com/watch/fmc-obdb61h2w3m2z4v4
+
+
+16. Shedeur Sanders shines, new transfers step up in Colorado’s spring game
+		Sat, 27 Apr 2024 19:33:14 -0400
+		https://www.foxsports.com/stories/college-football/shedeur-sanders-shines-new-transfers-step-up-in-colorados-spring-game
+
+
+17. Ricky Person Jr. sprints past Roughnecks' defense on 6-yard rushing TD as Stallions strike first
+		Sat, 27 Apr 2024 23:23:25 +0000
+		https://www.foxsports.com/watch/fmc-7wnfzbqnijsdvnge
+
+
+18. 2024 NFL Draft Day 3 highlights, picks tracker
+		Sat, 27 Apr 2024 11:52:28 -0400
+		https://www.foxsports.com/live-blog/nfl/2024-nfl-draft-day-3-highlights-picks-tracker
+
+
+19. 2024 NFL Draft Trade Tracker: Recap of every deal from every round
+		Sat, 27 Apr 2024 19:09:25 -0400
+		https://www.foxsports.com/stories/nfl/2024-nfl-draft-trade-tracker
+
+
+20. Jimmy Butler says he's 'working,' but there's no timetable for his return to Heat
+		Sat, 27 Apr 2024 19:02:56 -0400
+		https://www.foxsports.com/stories/nba/jimmy-butler-says-hes-working-but-theres-no-timetable-for-his-return-to-heat
+
+
+21. Athletics vs. Orioles Highlights | MLB on FOX
+		Sat, 27 Apr 2024 22:55:55 +0000
+		https://www.foxsports.com/watch/fmc-4ullcmd7a4iofz2u
+
+
+22. Dodgers vs. Blue Jays highlights | MLB on FOX
+		Sat, 27 Apr 2024 22:55:40 +0000
+		https://www.foxsports.com/watch/fmc-iivt1w361p5g77vo
+
+
+23. Shai Gilgeous-Alexander, Thunder roll to 3-0 series lead with 106-85 win over the Pelicans
+		Sat, 27 Apr 2024 18:53:59 -0400
+		https://www.foxsports.com/stories/nba/shai-gilgeous-alexander-thunder-roll-to-3-0-series-lead-with-106-85-win-over-the-pelicans
+
+
+24. Hunter Greene compiles six strikeouts in Reds' 8-4 victory over Rangers
+		Sat, 27 Apr 2024 22:49:04 +0000
+		https://www.foxsports.com/watch/fmc-en5tpfs3ysivmfzg
+
+
+25. Davis Wendzel and Corey Seager go back-to-back in the ninth to bring the Rangers within five of the Reds
+		Sat, 27 Apr 2024 22:46:01 +0000
+		https://www.foxsports.com/watch/fmc-ktko0e7jj0crlyqo
+
+
+26. Chargers grab Brenden Rice, son of Jerry Rice, in seventh round of draft
+		Sat, 27 Apr 2024 18:15:09 -0400
+		https://www.foxsports.com/stories/nfl/chargers-grab-brenden-rice-son-of-jerry-rice-in-seventh-round
+
+
+27. Jimmie Johnson on how NASCAR treated Erik Jones at the infield care center | NASCAR on FOX
+		Sat, 27 Apr 2024 22:11:30 +0000
+		https://www.foxsports.com/watch/fmc-7k0qpess2o53j1p1
+
+
+28. Jonathan India and Will Benson both launch two-run homers to increase the Reds' lead over the Rangers
+		Sat, 27 Apr 2024 22:03:11 +0000
+		https://www.foxsports.com/watch/fmc-oorh1k281hysizie
+
+
+29. Chiefs owner says leaving Arrowhead Stadium is an option after sales tax funding was rejected
+		Sat, 27 Apr 2024 17:53:02 -0400
+		https://www.foxsports.com/stories/nfl/chiefs-owner-says-leaving-arrowhead-stadium-is-an-option-after-sales-tax-funding-was-rejected
+
+
+30. Mets' Pete Alonso smashes a two-run homer, the 200th of his career vs. the Cardinals
+		Sat, 27 Apr 2024 21:50:08 +0000
+		https://www.foxsports.com/watch/fmc-9jpdecad2xfrci61
+
+
+['https://theathletic.com/feeds/rss/news/']
+1. 2024 NFL Draft grades for fantasy football: Every pick from Caleb Williams to Jonathon Brooks and more
+		2024-04-28T02:07:36Z
+		https://theathletic.com/5400087/2024/04/27/2024-nfl-draft-grades-for-fantasy-football/
+
+
+2. How the Magic unleashed a third-quarter onslaught on the Cavaliers
+		2024-04-28T01:57:35Z
+		https://theathletic.com/5454499/2024/04/27/orlando-magic-cleveland-cavaliers-game-4/
+
+
+3. Messi becomes first player in MLS history with multiple goal contributions in five straight games
+		2024-04-28T01:40:07Z
+		https://theathletic.com/5454606/2024/04/27/messi-inter-miami-new-england-record/
+
+
+4. Chargers 2024 NFL Draft takeaways: Jim Harbaugh, Joe Hortiz wrap up successful debut
+		2024-04-28T01:37:31Z
+		https://theathletic.com/5440346/2024/04/27/los-angeles-chargers-2024-draft-picks-takeaways/
+
+
+5. Ravens 2024 NFL Draft takeaways: Baltimore filled needs, but did it do enough for the O-line?
+		2024-04-28T01:14:27Z
+		https://theathletic.com/5454469/2024/04/27/baltimore-ravens-2024-draft-picks-takeaways-2/
+
+
+6. Vikings 2024 NFL Draft takeaways: Best value pick, biggest surprise and what’s next
+		2024-04-28T01:13:40Z
+		https://theathletic.com/5454496/2024/04/27/minnesota-vikings-2024-draft-picks-takeaways/
+
+
+7. Colts 2024 NFL Draft takeaways: If Adonai Mitchell realizes potential, look out
+		2024-04-28T01:13:18Z
+		https://theathletic.com/5453514/2024/04/27/indianapolis-colts-2024-nfl-draft-picks-takeaways/
+
+
+8. Clippers say they’re in a good place as they prepare Game 4 response for Mavericks
+		2024-04-28T01:11:05Z
+		https://theathletic.com/5453612/2024/04/27/clippers-mavericks-preview-game-4-nba-playoffs/
+
+
+9. Michigan leads all schools in 2024 NFL Draft with 13 players selected
+		2024-04-28T01:05:19Z
+		https://theathletic.com/5452993/2024/04/27/michigan-most-players-selected-nfl-draft/
+
+
+10. Lions 2024 NFL Draft takeaways: New picks bolster roster with Super Bowl aspirations
+		2024-04-28T01:03:50Z
+		https://theathletic.com/5453592/2024/04/27/detroit-lions-2024-draft-picks-takeaways/
+
+
+11. Poor outing from Adrian Houser casts concern over Mets’ starting rotation
+		2024-04-28T00:56:47Z
+		https://theathletic.com/5454523/2024/04/27/adrian-houser-mets-starting-rotation/
+
+
+12. Broncos 2024 NFL Draft takeaways: Will Bo Nix and new weapons lift the offense?
+		2024-04-28T00:43:40Z
+		https://theathletic.com/5453226/2024/04/27/denver-broncos-2024-draft-picks-takeaways/
+
+
+13. Kentucky Derby 2024 post positions, odds: Fierceness the favorite, Sierra Leone a top contender
+		2024-04-28T00:32:38Z
+		https://theathletic.com/5453483/2024/04/27/kentucky-derby-odds-post-position-draw-2024/
+
+
+14. If Cavs’ collapse continues, Donovan Mitchell’s future will face new question
+		2024-04-28T00:29:49Z
+		https://theathletic.com/5454160/2024/04/27/donovan-mitchell-future-cavaliers-magic-nba-playoffs/
+
+
+15. Cowboys 2024 NFL Draft takeaways: What will they do at running back, defensive tackle?
+		2024-04-28T00:28:39Z
+		https://theathletic.com/5454109/2024/04/27/dallas-cowboys-2024-draft-picks-takeaways/
+
+
+16. Steelers — even Mike Tomlin — are thrilled with their draft class (as they should be)
+		2024-04-28T00:21:42Z
+		https://theathletic.com/5453698/2024/04/27/steelers-nfl-draft-mike-tomlin-omar-khan/
+
+
+17. Commanders 2024 NFL Draft takeaways: Jayden Daniels, value adds, remaining needs
+		2024-04-28T00:15:44Z
+		https://theathletic.com/5453699/2024/04/27/washington-commanders-2024-draft-picks-takeaways/
+
+
+18. Panthers 2024 NFL Draft takeaways: More playmakers for Bryce Young, offense
+		2024-04-28T00:14:33Z
+		https://theathletic.com/5454330/2024/04/27/carolina-panthers-2024-draft-picks-takeaways/
+
+
+19. How Mikhail Sergachev’s return, Steven Stamkos helped Lightning survive Game 4: 3 takeaways
+		2024-04-28T00:14:09Z
+		https://theathletic.com/5453954/2024/04/27/lightning-panthers-game-4-takeaways/
+
+
+20. Chiefs 2024 NFL Draft takeaways: Improving on offense the clear priority
+		2024-04-28T00:11:55Z
+		https://theathletic.com/5454138/2024/04/27/kansas-city-chiefs-2024-draft-picks-takeaways/
+
+
+21. Browns NFL draft wrap-up: Takeaways and analysis on Cleveland’s picks and process
+		2024-04-28T00:10:16Z
+		https://theathletic.com/5454012/2024/04/27/nfl-draft-takeaways-analysis-cleveland-browns/
+
+
+22. Rams 2024 NFL Draft takeaways: Patience pays off with meat-and-potatoes additions
+		2024-04-28T00:09:45Z
+		https://theathletic.com/5452706/2024/04/27/los-angeles-rams-2024-draft-picks-takeaways/
+
+
+23. Giants 2024 NFL Draft takeaways: No new QB, but Malik Nabers will make offense exciting
+		2024-04-28T00:07:04Z
+		https://theathletic.com/5453049/2024/04/27/new-york-giants-2024-nfl-draft-picks-takeaways/
+
+
+24. Jets 2024 NFL Draft takeaways: Lots of trades, all with the goal of an improved offense
+		2024-04-28T00:00:46Z
+		https://theathletic.com/5454087/2024/04/27/new-york-jets-2024-draft-picks-takeaways/
+
+
+25. Denver Broncos NFL Draft picks 2024: Grades, fits and scouting reports
+		2024-04-27T23:48:12Z
+		https://theathletic.com/5442679/2024/04/27/denver-broncos-2024-draft-picks-grades-scouting-reports/
+
+
+26. Minnesota Vikings NFL Draft picks 2024: Grades, fits and scouting reports
+		2024-04-27T23:45:54Z
+		https://theathletic.com/5439032/2024/04/27/minnesota-vikings-2024-draft-picks-grades-scouting-reports/
+
+
+27. Patriots 2024 NFL Draft takeaways: Emphasizing offense to help QB Drake Maye
+		2024-04-27T23:42:20Z
+		https://theathletic.com/5453896/2024/04/27/new-england-patriots-2024-draft-picks-takeaways/
+
+
+28. Packers 2024 NFL Draft takeaways: Best value pick, biggest question mark and more
+		2024-04-27T23:36:52Z
+		https://theathletic.com/5453071/2024/04/27/green-bay-packers-2024-draft-picks-takeaways/
+
+
+29. Titans 2024 NFL Draft takeaways: First beef, then skill, for a quintet of impact players
+		2024-04-27T23:31:27Z
+		https://theathletic.com/5453691/2024/04/27/tennessee-titans-2024-draft-picks-takeaways/
+
+
+30. Miami lands Oregon State RB transfer Damien Martinez
+		2024-04-27T23:28:58Z
+		https://theathletic.com/5454245/2024/04/27/miami-lands-oregon-state-rb-transfer-damien-martinez/
+
+
+31. 2024 NFL Draft’s best undrafted free agents: Kedon Slovis, Gabriel Murphy, other UDFAs
+		2024-04-27T23:20:16Z
+		https://theathletic.com/5452338/2024/04/27/best-available-undrafted-free-agents-nfl-draft/
+
+
+32. Bengals 2024 NFL Draft takeaways: Are big swings enough for a Super Bowl run?
+		2024-04-27T23:16:09Z
+		https://theathletic.com/5453570/2024/04/27/cincinnati-bengals-2024-draft-takeaways/
+
+
+33. Bills 2024 NFL Draft takeaways: How big of an impact will Keon Coleman have in 2024?
+		2024-04-27T23:14:16Z
+		https://theathletic.com/5452673/2024/04/27/buffalo-bills-2024-draft-picks-takeaways/
+
+
+34. Bears 2024 NFL Draft takeaways: Sky’s the limit for Rome Odunze, Caleb Williams
+		2024-04-27T23:14:13Z
+		https://theathletic.com/5453439/2024/04/27/chicago-bears-2024-draft-picks-takeaways/
+
+
+35. Steelers 2024 NFL Draft takeaways: Omar Khan balances value, need in trench-heavy class
+		2024-04-27T23:12:44Z
+		https://theathletic.com/5453338/2024/04/27/pittsburgh-steelers-2024-draft-picks-takeaways/
+
+
+36. 49ers 2024 NFL Draft takeaways: An influx of speed and muscle
+		2024-04-27T23:11:49Z
+		https://theathletic.com/5442343/2024/04/27/san-francisco-49ers-2024-draft-picks-takeaways/
+
+
+37. Indianapolis Colts NFL Draft picks 2024: Grades, fits and scouting reports
+		2024-04-27T22:59:05Z
+		https://theathletic.com/5442273/2024/04/27/indianapolis-colts-draft-picks-grades-scouting-reports/
+
+
+38. With Deion Sanders’ second spring at Colorado complete, what’s next for the Buffs?
+		2024-04-27T22:51:47Z
+		https://theathletic.com/5453875/2024/04/27/deion-sanders-colorado-spring-game-future/
+
+
+39. New England Patriots NFL Draft picks 2024: Grades, fits and scouting reports
+		2024-04-27T22:35:20Z
+		https://theathletic.com/5438789/2024/04/27/new-england-patriots-2024-draft-picks-grades-scouting-reports/
+
+
+40. Winnipeg Jets’ Brenden Dillon day to day after skate blade cut
+		2024-04-27T22:15:54Z
+		https://theathletic.com/5453640/2024/04/27/jets-brenden-dillon-skate-blade-cut/
+
+
+41. Los Angeles Chargers draft Brenden Rice: How he fits and scouting intel
+		2024-04-27T22:04:35Z
+		https://theathletic.com/5452707/2024/04/27/brenden-rice-team-los-angeles-chargers-nfl-draft/
+
+
+42. How the Islanders stayed alive and took Game 4: 3 takeaways
+		2024-04-27T21:52:54Z
+		https://theathletic.com/5452628/2024/04/27/islanders-hurricanes-overtime-winner-mathew-barzal-game-4/
+
+
+43. Atletico Madrid vs Athletic Bilbao stopped after Nico Williams allegedly targeted with racist abuse
+		2024-04-27T21:35:56Z
+		https://theathletic.com/5453599/2024/04/27/nico-williams-racist-abuse-atletico-madrid/
+
+
+44. Patriots draft Joe Milton: How the Tennessee QB fits and scouting intel
+		2024-04-27T21:30:40Z
+		https://theathletic.com/5453623/2024/04/27/joe-milton-patriots-nfl-draft/
+
+
+45. New York Jets draft Jordan Travis: How the QB fits and scouting intel
+		2024-04-27T21:29:42Z
+		https://theathletic.com/5453490/2024/04/27/jordan-travis-jets-nfl-draft/
+
+
+46. Emma Hayes: Chelsea ‘robbed’ by refereeing decisions in Champions League semi-final exit
+		2024-04-27T20:38:42Z
+		https://theathletic.com/5453431/2024/04/27/emma-hayes-chelsea-barcelona-champions-league/
+
+
+47. Saturday’s NBA playoffs scores, takeaways: Thunder roll Pelicans, Magic tie up series with Cavaliers, Celtics rout Miami
+		2024-04-27T19:43:32Z
+		https://theathletic.com/5453081/2024/04/27/nba-playoffs-scores-takeaways-cavaliers-magic-thunder-pelicans-celtics-heat-nuggets-lakers/
+
+
+48. Warren Zaire-Emery signs new long-term Paris Saint-Germain contract
+		2024-04-27T19:22:11Z
+		https://theathletic.com/5453227/2024/04/27/warren-zaire-emery-psg-contract/
+
+
+49. Jets trade John Franklin-Myers to Broncos: Sources
+		2024-04-27T19:07:21Z
+		https://theathletic.com/5450195/2024/04/27/jets-trade-john-franklin-myers-broncos/
+
+
+50. New Orleans Saints draft Spencer Rattler: How he fits and scouting intel
+		2024-04-27T18:49:33Z
+		https://theathletic.com/5406378/2024/04/27/spencer-rattler-saints-nfl-draft/
+
+
+51. 2024 NFL Draft by the numbers: Spencer Rattler ends record 137-pick QB drought
+		2024-04-27T18:36:23Z
+		https://theathletic.com/5453033/2024/04/27/nfl-draft-2024-by-the-numbers/
+
+
+52. Kansas City Chiefs NFL Draft picks 2024: Grades, fits and scouting reports
+		2024-04-27T17:56:14Z
+		https://theathletic.com/5442317/2024/04/27/kansas-city-chiefs-nfl-draft-picks-2024-grades-fits-and-scouting-reports/
+
+
+53. Damian Lillard suffered strained Achilles, status in doubt for Bucks’ Game 4: Sources
+		2024-04-27T17:05:52Z
+		https://theathletic.com/5452871/2024/04/27/damian-lillard-achilles-injury-bucks-pacers/
+
+
+54. Detroit breaks all-time NFL Draft attendance record with 700,000 fans
+		2024-04-27T16:47:51Z
+		https://theathletic.com/5452790/2024/04/27/nfl-draft-2024-attendance-record-detroit/
+
+
+55. Green Bay Packers NFL Draft picks 2024: Grades, fits and scouting reports
+		2024-04-27T16:30:57Z
+		https://theathletic.com/5442740/2024/04/27/green-bay-packers-2024-draft-picks-grades-scouting-reports/
+
+
+56. Full list of 2024 NFL Draft picks from No. 1 through ‘Mr. Irrelevant’ at No. 257
+		2024-04-27T16:04:31Z
+		https://theathletic.com/5445980/2024/04/27/nfl-draft-pick-by-pick-tracker-2024/
+
+
+57. 2024 NFL Draft fantasy football spin: Winners, losers, analysis on Caleb Williams, Xavier Worthy and more
+		2024-04-27T16:00:34Z
+		https://theathletic.com/5400120/2024/04/27/fantasy-football-nfl-draft-winners-losers-2024/
+
+
+58. Sheffield United relegated from the Premier League
+		2024-04-27T15:59:34Z
+		https://theathletic.com/5439129/2024/04/27/sheffield-united-relegated-premier-league/
+
+
+59. The Giants walk off, and Kyle Harrison and Patrick Bailey make you feel better about future
+		2024-04-27T15:24:31Z
+		https://theathletic.com/5451882/2024/04/27/sf-giants-kyle-harrison-patrick-bailey/
+
+
+60. Mohamed Salah warns ‘there’s going to be fire if I speak’ after Jurgen Klopp touchline clash
+		2024-04-27T15:15:42Z
+		https://theathletic.com/5452654/2024/04/27/mohamed-salah-jurgen-klopp-liverpool-clash/
+
+
+61. Marvin Harrison Jr. NFL gear not available until Cardinals WR signs licensing contract with NFLPA
+		2024-04-27T14:32:50Z
+		https://theathletic.com/5449588/2024/04/27/marvin-harrison-jr-gear-licensing-contract/
+
+
+62. The Suns needed to show fire in Game 3, but all they could muster was a flicker
+		2024-04-27T12:38:10Z
+		https://theathletic.com/5452210/2024/04/27/suns-timberwolves-game-3-devin-booker/
+
+
+63. Full NFL Draft 2024 Rounds 4-7 picks and analysis: Live updates as Jaylen Key is 'Mr. Irrelevant'
+		2024-04-27T10:00:14Z
+		https://theathletic.com/live-blogs/nfl-draft-2024-rounds-4-7-order-picks-trades-grades/TSEmTpKuGVE1/
+
+
+64. New York Giants NFL Draft picks 2024: Grades, fits and scouting reports
+		2024-04-27T09:25:07Z
+		https://theathletic.com/5442278/2024/04/27/new-york-giants-draft-picks-grades-scouting-reports/
+
+
+65. Football news live: Premier League latest scores, updates, reaction and more
+		2024-04-27T06:00:29Z
+		https://theathletic.com/live-blogs/premier-league-news-scores-live-updates/5QL15bkSRzqN/
+
+
+66. Winners and losers from NFL Draft Rounds 2 and 3: Commanders get busy, QBs fall out of spotlight
+		2024-04-27T04:37:53Z
+		https://theathletic.com/5451268/2024/04/27/nfl-draft-winners-losers-round-2-3/
+
+
+67. Rams draft Michigan RB Blake Corum: How he fits, pick grade and scouting intel
+		2024-04-27T03:40:32Z
+		https://theathletic.com/5406398/2024/04/26/blake-corum-rams-nfl-draft/
+
+
+68. Dallas Cowboys draft Marshawn Kneeland: How he fits, pick grade and scouting intel
+		2024-04-27T01:00:15Z
+		https://theathletic.com/5417181/2024/04/26/marshawn-kneeland-cowboys-nfl-draft/
+
+
+69. Friday’s NBA playoffs scores, takeaways: Suns on brink, Mavs overwhelm Clippers, hero Haliburton
+		2024-04-27T00:53:06Z
+		https://theathletic.com/5450329/2024/04/26/nba-playoffs-scores-takeaways-bucks-pacers-mavericks-clippers-wolves-suns/
+
+
+70. Los Angeles Chargers draft Ladd McConkey: How he fits, pick grade and scouting intel
+		2024-04-26T23:24:19Z
+		https://theathletic.com/5433297/2024/04/26/ladd-mcconkey-los-angeles-chargers-nfl-draft/
+
+
+71. Orioles’ Jackson Holliday optioned to Triple-A after 10 games: How surprising is this?
+		2024-04-26T17:57:10Z
+		https://theathletic.com/5449908/2024/04/26/orioles-jackson-holliday-triple-a/
+
+
+72. Full NFL Draft 2024 Rounds 2 and 3 picks: Expert analysis, grades and reaction
+		2024-04-26T10:00:49Z
+		https://theathletic.com/live-blogs/nfl-draft-rounds-2-3-live-picks-order-trades/NVkokXuahJq7/
+
+
+73. Cardinals draft Marvin Harrison Jr.: How he fits, pick grade and scouting intel
+		2024-04-26T00:39:19Z
+		https://theathletic.com/5432771/2024/04/25/marvin-harrison-jr-cardinals-nfl-draft/
+
+
+74. What happened in the NFL Draft first round: Full recap, picks by team, grades and trades
+		2024-04-25T10:00:03Z
+		https://theathletic.com/live-blogs/nfl-draft-2024-live-picks-trades-grades-round-1/mBX0v0oYxhQ3/
+
+
+75. Premier League news live updates: Today’s press conferences plus build-up to this weekend’s fixtures
+		2024-04-24T22:36:30Z
+		https://theathletic.com/live-blogs/premier-league-scores-news-live-updates-latest/fVpIR6GDCVEZ/
+
+
+76. Cowboys exercise Micah Parsons’ fifth-year option: Why it’s a no-brainer for Dallas
+		2024-04-24T22:25:30Z
+		https://theathletic.com/5443189/2024/04/24/cowboys-micah-parsons-fifth-year-option/
+
+
+77. Bears unveil plans for new stadium near Soldier Field, will include fixed roof
+		2024-04-24T18:51:09Z
+		https://theathletic.com/5426072/2024/04/24/chicago-bears-stadium-announcement/
+
+
+78. Lions reset WR, OL markets with extensions for Amon-Ra St. Brown, Penei Sewell
+		2024-04-24T16:01:07Z
+		https://theathletic.com/5316719/2024/04/24/amon-ra-st-brown-contract-extension-lions/
+
+
+79. Peyton Manning on Zach Wilson’s trade to Broncos: ‘I think a reboot actually is good’
+		2024-04-24T15:27:07Z
+		https://theathletic.com/5441973/2024/04/24/peyton-manning-trade-broncos-zach-wilson/
+
+
+80. How Everton beat Liverpool 2-0 in Klopp's final derby to damage rivals' title hopes
+		2024-04-24T13:00:37Z
+		https://theathletic.com/live-blogs/everton-liverpool-live-updates-premier-league-score-result/mxfs9eT0j3aP/
+
+
+81. How Arsenal thrashed Chelsea 5-0 to extend their lead at the top of the Premier League table
+		2024-04-23T11:00:24Z
+		https://theathletic.com/live-blogs/arsenal-chelsea-live-updates-premier-league-score-result/1SzVFsjhCPCC/
+
+
+82. Why Chiefs extending Andy Reid, Brett Veach and Mark Donovan is their latest win
+		2024-04-23T01:32:07Z
+		https://theathletic.com/5437337/2024/04/22/kansas-city-chiefs-contract-extensions/
+
+
+83. Patriots listening to teams looking to trade for No. 3 pick in NFL Draft: Sources
+		2024-04-22T19:38:25Z
+		https://theathletic.com/5436460/2024/04/22/patriots-draft-trade-talks/
+
+
+84. Jets trade Zach Wilson to Broncos in late-round pick swap
+		2024-04-22T18:32:43Z
+		https://theathletic.com/5332417/2024/04/22/zach-wilson-broncos-jets-trade/
+
+
+85. Matt Ryan officially retires from the NFL; let the Hall of Fame debate begin
+		2024-04-22T18:03:22Z
+		https://theathletic.com/5435728/2024/04/22/matt-ryan-retires-falcons-colts/
+
+
+86. Denver Broncos reveal new uniforms
+		2024-04-22T15:40:57Z
+		https://theathletic.com/5434406/2024/04/22/broncos-new-uniforms-nfl/
+
+
+87. What happened in the leadup to the 2024 NFL Draft
+		2024-04-22T11:00:50Z
+		https://theathletic.com/live-blogs/nfl-draft-news-live/599dlpdmSwtE/
+
+
+88. Premier League news live: Arsenal-Chelsea reaction, Arne Slot latest, injury updates and more
+		2024-04-22T06:00:46Z
+		https://theathletic.com/live-blogs/premier-league-scores-news-live-updates-latest/jm5Y4KCg0fmA/
+
+
+89. How Jude Bellingham's stoppage-time El Clasico winner extended Real Madrid's La Liga lead over Barcelona
+		2024-04-21T09:00:02Z
+		https://theathletic.com/live-blogs/real-madrid-barcelona-live-updates-el-clasico-score-result/FEVfykoVvrj2/
+
+
+90. Pegula family selling portion of Bills ownership stake: Sources
+		2024-04-19T18:49:47Z
+		https://theathletic.com/5429904/2024/04/19/buffalo-bills-sale-25-percent-stake/
+
+
+91. NFL won’t discipline Ravens’ Zay Flowers after investigating alleged domestic violence incident
+		2024-04-18T20:14:48Z
+		https://theathletic.com/5427239/2024/04/18/zay-flowers-domestic-violence-investigation-ravens/
+
+
+92. Bill Belichick to co-host ‘The Pat McAfee Show’s’ Draft Spectacular
+		2024-04-17T19:39:26Z
+		https://theathletic.com/5423709/2024/04/17/bill-belichick-pat-mcafee-nfl-draft-co-host/
+
+
+93. Rafael Nadal loses to Alex de Minaur in Barcelona tennis comeback
+		2024-04-17T16:09:01Z
+		https://theathletic.com/5423051/2024/04/17/rafael-nadal-result-barcelona-de-minaur/
+
+
+94. Chiefs’ Travis Kelce to host game show ‘Are You Smarter Than a Celebrity?’
+		2024-04-17T14:24:00Z
+		https://theathletic.com/5422669/2024/04/17/chiefs-travis-kelce-game-show/
+
+
+95. Patrick Mahomes named to 2024 Time ‘Most Influential People’ list
+		2024-04-16T13:57:46Z
+		https://theathletic.com/5419453/2024/04/16/patrick-mahomes-time-most-influential-list/
+
+
+96. Rafael Nadal withdraws from Monte Carlo Masters: ‘My body simply won’t allow me’
+		2024-04-04T17:27:04Z
+		https://theathletic.com/5391715/2024/04/04/rafael-nadal-injury-monte-carlo/
+
+
+97. Rafael Nadal withdraws from BNP Paribas Open at Indian Wells: What this means for his comeback
+		2024-03-07T03:15:24Z
+		https://theathletic.com/5322404/2024/03/06/rafael-nadal-withdraws-indian-wells/
+
+
+98. Saban: Alabama investigating postgame incident involving Jermaine Burton
+		2022-10-19T17:15:58Z
+		https://theathletic.com/3709352/2022/10/19/alabama-jermaine-burton-video-saban/
+
+
+99. WR Jermaine Burton transfers from Georgia to Alabama
+		2022-01-23T23:58:14Z
+		https://theathletic.com/3511923/2022/01/23/wr-jermaine-burton-transfers-from-georgia-to-alabama/
+
+
+100. Jets, DL John Franklin-Myers agree to contract extension: Sources
+		2021-10-07T23:35:30Z
+		https://theathletic.com/4195514/2021/10/07/jets-dl-john-franklin-myers-agree-to-contract-extension-sources/
+
+
